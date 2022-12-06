@@ -1,0 +1,94 @@
+h1 {
+    background-color: #b30763;
+    color: cornsilk;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+h2 {
+    background-color: #b30763;
+    color: cornsilk;
+    text-align: center;
+}
+body {
+    background-color: deeppink;
+    background-image: url("https://e1.pxfuel.com/desktop-wallpaper/92/1011/desktop-wallpaper-cool-teenage-backgrounds-teenager-iphone.jpg");
+    background-size: 500px;
+    margin: 30px 400px 400px;
+
+}
+.caja {
+    padding: 15px;
+    margin: auto;
+    width: 95%;
+    background-color: #b30763;
+    border-radius: 5px;
+}
+.botonComenzar {
+    justify-content: center;
+    display: flex;
+    margin-top: 10%;
+    text-transform: uppercase;
+    padding: 5px;
+
+}
+input{
+    background-color: #b30763;
+    color: cornsilk;
+    padding: 15px;
+    border-radius: 5px;
+    border: cornsilk;
+}
+
+body {
+    background-color: deeppink;
+    background-image: url("https://e1.pxfuel.com/desktop-wallpaper/92/1011/desktop-wallpaper-cool-teenage-backgrounds-teenager-iphone.jpg");
+    background-size: 500px;
+    margin: 30px 400px 400px;
+
+}
+
+h3 {
+    background-color: #b30763;
+    color: cornsilk;
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 25px;
+}
+p {
+    margin-left: 82%;
+    position: relative;
+    margin-bottom: 1%;
+    top: -65px;
+}
+h4 {
+    background-color: #b30763;
+    color: cornsilk;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.botonCifrar {
+    position: relative;
+    margin-left: 20%;
+    top: -60px;
+}
+.botonDescifrar {
+    position: relative;
+    top: -60px;
+    margin-left: 20%;
+}
+.caja2 {
+    position: relative;
+    top: -40px;
+}
+.botonIniciar {
+    display: flex;
+    justify-content: center;
+
+}
+ 
