@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+    <title>Caesar Cipher</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+    <h3>Escribe tu mensaje</h3>
+    <br/>
+    <textarea id="mensaje" cols="60" rows="5"></textarea>
+    
+    <h4>Escoje el número de  desplazamiento</h4>
+    
+    <p><input type="number" id="desplaz" min="1" max="33" placeholder="0"/></p>
+
+    <input type= "button" class= "botonCifrar" id= "cifrar" value= "CIFRAR"/>
+
+    <input type= "button" class= "botonDescifrar" id= "descifrar" value= "DESCIFRAR"/>   
+
+    <textarea id="respuesta" class= "caja2" cols="60" rows="5"></textarea>
+    
+    <div class="botonIniciar">
+    <a href="index.html">
+        <input type= "button" id= "inicio" value= "INICIO"/>
+       </a>
+    </div>
+
+       <script src="index.js" type="module"></script>
+
+</body>
+</html>
