@@ -2,8 +2,8 @@ import cipher from "./cipher.js";
 
 document.getElementById("mensaje").addEventListener("keyup", mayuscula);
 function mayuscula() {
-  const strg = document.getElementById("mensaje");
-  strg.value = strg.value.toUpperCase();
+  const letter = document.getElementById("mensaje");
+  letter.value = letter.value.toUpperCase();
 }
 document.getElementById("cifrar").addEventListener("click", function () {
   const box1 = document.getElementById("mensaje").value;
