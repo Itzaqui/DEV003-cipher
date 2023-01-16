@@ -40,7 +40,10 @@ input{
     color: cornsilk;
     padding: 15px;
     border-radius: 5px;
-    border: cornsilk;
+}
+.input:hover{
+    box-shadow: 10px 10px 15px rgba(255, 255, 255, 0.82);
+    transform: translateY(-3%);
 }
 
 body {

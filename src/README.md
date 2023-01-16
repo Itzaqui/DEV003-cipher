@@ -2,7 +2,7 @@ Este proyecto fue realizado para grupos de amig@s con edades comprendidas entre 
 
 Como primer paso, hice un boceto a mano de cómo quería que quedara el diseño en la interfaz de la página.
 
-![borrador](src/images/borrador.jpg)
+![borrador](C:\Users\claud\OneDrive\Desktop\cipher\DEV003-cipher\src\images\borrador.jpg)
 
 Luego hice el HTML y el CSS con el estilo que tenía en mente. En el trancurso del diseño decidí hacer otro HTML para la presentación del proyecto.
 
