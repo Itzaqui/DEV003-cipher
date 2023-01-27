@@ -16,9 +16,8 @@ h2 {
 body {
     background-color: deeppink;
     background-image: url("https://e1.pxfuel.com/desktop-wallpaper/92/1011/desktop-wallpaper-cool-teenage-backgrounds-teenager-iphone.jpg");
-    background-size: 500px;
-    margin: 30px 400px 400px;
-
+    background-size: cover;
+    
 }
 .caja {
     padding: 15px;
@@ -40,8 +39,8 @@ input{
     color: cornsilk;
     padding: 15px;
     border-radius: 5px;
-    border: cornsilk;
 }
+
 
 body {
     background-color: deeppink;
@@ -60,19 +59,23 @@ h3 {
     font-size: 25px;
 }
 p {
-    margin-left: 82%;
+    margin-left: 78%;
     position: relative;
     margin-bottom: 1%;
-    top: -65px;
+    top: -68px;
 }
 h4 {
     background-color: #b30763;
     color: cornsilk;
-    padding: 5px;
-    padding-left: 3em;
     border-radius: 5px;
     font-size: 20px;
+    padding: 5px 5px 5px 5px;
+    text-align: center;
 }
+.h4 { 
+    width: 340px; 
+}
+
 .botonCifrar {
     position: relative;
     margin-left: 20%;
@@ -81,7 +84,7 @@ h4 {
 .botonDescifrar {
     position: relative;
     top: -60px;
-    margin-left: 20%;
+    margin-left: 10%;
 }
 .caja2 {
     position: relative;
