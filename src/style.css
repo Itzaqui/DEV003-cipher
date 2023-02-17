@@ -59,7 +59,7 @@ h3 {
     font-size: 25px;
 }
 p {
-    margin-left: 78%;
+    margin-left: 70%;
     position: relative;
     margin-bottom: 1%;
     top: -68px;
@@ -74,21 +74,28 @@ h4 {
 }
 .h4 { 
     width: 340px; 
+    margin-left: 10%;
 }
 
 .botonCifrar {
     position: relative;
-    margin-left: 20%;
+    margin-left: 25%;
     top: -60px;
 }
 .botonDescifrar {
     position: relative;
     top: -60px;
-    margin-left: 10%;
+    margin-left: 8%;
+}
+.caja3 {
+display: flex;
+margin-left: 10%;
+
 }
 .caja2 {
     position: relative;
     top: -40px;
+    margin-left: 10%;
 }
 .botonIniciar {
     display: flex;
