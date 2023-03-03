@@ -14,10 +14,9 @@ h2 {
     text-align: center;
 }
 body {
-    background-color: deeppink;
+    background-color: rgb(255, 20, 147);
     background-image: url("https://e1.pxfuel.com/desktop-wallpaper/92/1011/desktop-wallpaper-cool-teenage-backgrounds-teenager-iphone.jpg");
     background-size: cover;
-    
 }
 .caja {
     padding: 15px;
